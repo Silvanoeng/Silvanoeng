@@ -15,4 +15,5 @@
   <img align="center" alt="HTML5" height="60" width="80" src="https://silvanoeng.github.io/desafiosFrontEnd/img/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="60" width="80" src="https://silvanoeng.github.io/desafiosFrontEnd/img/css3-original-wordmark.svg">
   <img align="center" alt="MySQL" height="100" width="80" src="https://silvanoeng.github.io/desafiosFrontEnd/img/mysql-original-wordmark.svg">
+  <img align="center" alt="CTD" height="140" width="400" src="https://silvanoeng.github.io/desafiosFrontEnd/img/LogoCTD.svg">
 </div>
