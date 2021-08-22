@@ -1,11 +1,10 @@
 ## Olá! Sou o Silvano Araujo 👋
 <div style="display: inline_block">
   <ul>
-    <li> 🔭 Quero trabalhar com back-end</li>
-    <li> 📫 Contate-me no email: silvanoeng@hotmail.com</li>
+    <li> 🔭 Interesse em back-end</li>
     <li> 🌱 Estudando Java, JavaScript, HTML, CSS, MySQL, Teste, Infra e soft-skills</li>
-    <br>
-
+    <li> 📫 Contato através do email: silvanoeng@hotmail.com</li>
+    <li> 💻 Cursando:</li>
   <img align="top" alt="CTD" height="120" width="350" src="https://silvanoeng.github.io/desafiosFrontEnd/img/LogoCTD.svg">
 </div>
 <div><br>
