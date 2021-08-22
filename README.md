@@ -1,10 +1,14 @@
 ## Olá! Sou o Silvano Araujo 👋
+<div style="display: inline_block">
+  <ul>
+    <li> 🔭 Quero trabalhar com back-end</li>
+    <li> 📫 Contate-me no email: silvanoeng@hotmail.com</li>
+    <li> 🌱 Estudando Java, JavaScript, HTML, CSS, MySQL, Teste, Infra e soft-skills</li>
+    <br>
 
-- 🔭 Quero trabalhar com back-end
-- 🌱 Estudando Java, JavaScript, HTML, CSS, MySQL, Teste, Infra e soft-skills
-- 📫 Contate-me no email: silvanoeng@hotmail.com
-
-<div>
+  <img align="top" alt="CTD" height="120" width="350" src="https://silvanoeng.github.io/desafiosFrontEnd/img/LogoCTD.svg">
+</div>
+<div><br>
   <a href="https://www.linkedin.com/in/silvano-araujo-pereira-0616083b/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Silvanoeng&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvanoeng&layout=compact&langs_count=7&theme=highcontrast">
@@ -15,5 +19,5 @@
   <img align="center" alt="HTML5" height="60" width="80" src="https://silvanoeng.github.io/desafiosFrontEnd/img/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="60" width="80" src="https://silvanoeng.github.io/desafiosFrontEnd/img/css3-original-wordmark.svg">
   <img align="center" alt="MySQL" height="100" width="80" src="https://silvanoeng.github.io/desafiosFrontEnd/img/mysql-original-wordmark.svg">
-  <img align="center" alt="CTD" height="140" width="400" src="https://silvanoeng.github.io/desafiosFrontEnd/img/LogoCTD.svg">
+  
 </div>
