@@ -7,7 +7,7 @@
     <li> 💻 Cursando:</li>
   <img align="top" alt="CTD" height="120" width="350" src="https://silvanoeng.github.io/desafiosFrontEnd/img/LogoCTD.svg">
 </div>
-  <img href="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Silvanoeng&repo=Silvanoeng&countColorcountColor&style=flat">
+  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Silvanoeng&repo=Silvanoeng&countColorcountColor&style=flat">
 <div><br>
   <a href="https://www.linkedin.com/in/silvano-araujo-pereira-0616083b/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Silvanoeng&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
